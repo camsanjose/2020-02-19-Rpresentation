@@ -2,7 +2,7 @@ index
 ========================================================
 author: Camila San José
 date: February 19,2020
-font-import: https://fonts.googleapis.com/css?family=Sacramento&display=swap
+font-import: https://fonts.googleapis.com/css?family=Sacramento
 font-family: 'Sacramento'
 autosize: true
 
